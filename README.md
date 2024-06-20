@@ -1,5 +1,7 @@
 # ImageGen
 
+Google Slide to explain the project:
+[Google Slide Link](https://docs.google.com/presentation/d/1j9p2AJRoSKvfFMJctIMrCz8k4yI_4En-MglBUonv0_s/edit?usp=sharing)
 
 ## How to Run the Frontend
 
